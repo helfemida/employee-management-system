@@ -1,0 +1,7 @@
+Employee's name: qwe
+ Employee's age: 345
+ Employee's ID: 345
+ Employee's Email: qwe345
+ Employee's Position: qwe
+ Employee's contact info: 345
+ Employee's salary: 345

@@ -1,0 +1,7 @@
+Employee's name: a
+ Employee's age: 23
+ Employee's ID: 23
+ Employee's Email: 23
+ Employee's Position: a
+ Employee's contact info: 23
+ Employee's salary: 23
